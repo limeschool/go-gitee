@@ -1,4 +1,4 @@
-module go-gitee
+module github.com/limeschool/go-gitee
 
 go 1.16
 
